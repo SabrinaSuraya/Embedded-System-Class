@@ -1,0 +1,7 @@
+Analyse the system limitation of the prototype and recommendation for the improvement as a product.
+Limitation
+-	the product can only be player with 2 persons. The Nim game can be played with 2 to 3 person
+Recommendation
+-	add sound to the game. When the no of marble reaches the max of 3, it will product the sound.
+-	Build the prototype by using plastics instead of plywood. 
+- add more Lcd to display instruction before the game start
