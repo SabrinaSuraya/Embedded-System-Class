@@ -2,6 +2,7 @@ Analyse the system limitation of the prototype and recommendation for the improv
 
 Limitation
 -	the product can only be player with 2 persons. The Nim game can be played with 2 to 3 person.
+- it need to move all the ball into the upper part after the game ended.
 
 Recommendation
 -	add sound to the game. it will product the sound during the game start.
